@@ -8,7 +8,7 @@ Keyboards like the Corne are designed for power users and will seamlessly integr
 
 # Components
 
-Along with the Corne [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board) , I opted for two 0xCB Helios micro controller:
+Along with the Corne [PCB](https://en.wikipedia.org/wiki/Printed_circuit_board) , I opted for two 0xCB Helios - an rp2040 Controller with pro micro compatible pinout, 16MB (128Mbit) of flash, Dual ARM Cortex-M0 @133MHz, and 264kB SRAM:
 
 |  |  |
 |--|--|
