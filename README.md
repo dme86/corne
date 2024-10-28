@@ -21,3 +21,14 @@ And Kailh Low Profile Choc Switches V1 Red Pro:
 |--|
 |![enter image description here](https://i.imgur.com/1rUZWpv.jpeg)  | 
 
+
+## Build
+
+### Diodes
+
+The first step involved soldering all 40 diodes onto the PCB. I had to proceed carefully, as the diodes are quite small and require correct orientation. Each diode has a small line on one side, which must align with the markings on the PCB, ensuring the orientation matches the directional symbol.
+
+|  |  |
+|--|--|
+| ![enter image description here](https://i.imgur.com/mM9w4wf.jpeg) | ![enter image description here](https://i.imgur.com/r8TIVhg.jpeg) |
+
